@@ -1,0 +1,1 @@
+{  "defaultSchema": "curated", "assertionSchema":  "dataform_assertions","warehouse":  "bigquery","defaultDatabase": "dataform-demo-369515","defaultLocation":  "us-central1" }

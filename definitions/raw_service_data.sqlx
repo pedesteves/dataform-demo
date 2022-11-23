@@ -1,0 +1,7 @@
+config {
+  type: "declaration",
+  database: "dataform-demo-369515",  
+  schema: "staging",
+  name: "service_raw",
+  description : "Service data staged. External CSV"
+}
